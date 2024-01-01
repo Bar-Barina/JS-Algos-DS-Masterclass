@@ -14,5 +14,5 @@ class DoublyLinkedList {
     this.tail = null
     this.length = 0
   }
-  set(index) {}
+  set() {}
 }
